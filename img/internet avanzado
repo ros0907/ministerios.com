@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Palabra de Vida</title>
+</head>
+<body style="background-color:#FFFFFF; font-family:Arial; text-align:center;">
+
+  <!-- TÍTULO CON COLOR SEGURO -->
+  <h1 style="color:#003366; font-size:36px;">"Lámpara es a mis pies tu palabra"</h1>
+  <h2 style="color:#CC3333; font-size:24px;">Salmo 119:105</h2>
+
+  <!-- IMAGEN REPRESENTATIVA (simulación de JPG <15KB) -->
+  <img src="biblia.jpg" alt="Biblia abierta" width="250" height="180"><br><br>
+
+  <!-- BOTONES DE NAVEGACIÓN CON ENLACES -->
+  <div>
+    <a href="inicio.html">
+      <img src="btn_inicio.gif" alt="Inicio" width="120" height="40" title="Inicio">
+    </a>
+
+    <a href="versiculos.html">
+      <img src="btn_versiculos.gif" alt="Versículos" width="120" height="40" title="Versículos">
+    </a>
+
+    <a href="devocionales.html">
+      <img src="btn_devocionales.gif" alt="Devocionales" width="120" height="40" title="Devocionales">
+    </a>
+
+    <a href="contacto.html">
+      <img src="btn_contacto.gif" alt="Contacto" width="120" height="40" title="Contáctanos">
+    </a>
+
+    <a href="enlaces.html">
+      <img src="btn_enlaces.gif" alt="Enlaces" width="120" height="40" title="Recursos Cristianos">
+    </a>
+  </div>
+
+  <br><br>
+  <!-- SECCIÓN CON VERSÍCULO DESTACADO -->
+  <p style="color:#339966; font-size:18px; width:70%; margin:auto;">
+    “Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree,
+    no se pierda, mas tenga vida eterna.”  
+    <b>– Juan 3:16</b>
+  </p>
+
+  <!-- LÍNEA DIVISORIA -->
+  <hr style="border:1px solid #FFCC00; width:80%;">
+
+  <!-- PIE DE PÁGINA -->
+  <footer style="font-size:14px; color:#666666;">
+    © 2025 Ministerio Web Bíblico | Diseño con colores seguros y contenido cristiano.
+  </footer>
+</body>
+</html>
